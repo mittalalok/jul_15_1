@@ -32,6 +32,8 @@
 	// Add your code here ds
 	//sffsf
 	//sssd
+	//sdd
+	//sf
 
 })(current, previous);]]></script>
         <sys_class_name>sys_script</sys_class_name>
@@ -40,7 +42,7 @@
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
         <sys_id>05154b17732233001c233096fbf6a770</sys_id>
-        <sys_mod_count>3</sys_mod_count>
+        <sys_mod_count>5</sys_mod_count>
         <sys_name>br1</sys_name>
         <sys_overrides/>
         <sys_package display_value="jul_15_1" source="sn_jul_15_1">10648fd3732233001c233096fbf6a7a1</sys_package>
@@ -48,7 +50,7 @@
         <sys_scope display_value="jul_15_1">10648fd3732233001c233096fbf6a7a1</sys_scope>
         <sys_update_name>sys_script_05154b17732233001c233096fbf6a770</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2019-07-16 11:43:03</sys_updated_on>
+        <sys_updated_on>2019-07-16 12:33:33</sys_updated_on>
         <template/>
         <when>before</when>
     </sys_script>
